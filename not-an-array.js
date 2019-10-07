@@ -33,7 +33,7 @@ class NotAnArray {
     }
   
     push(value) {
-        this.storage[Object.keys(this.storage).length] = value;
+        this.storage[Object.keys(this.storage).length] = "cat";
     }
   
     pop() {

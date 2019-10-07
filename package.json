@@ -1,0 +1,15 @@
+{
+  "name": "breakfast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "not-an-array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jasmine": "node node_modules/jasmine/bin/jasmine.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
